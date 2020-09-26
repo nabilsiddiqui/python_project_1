@@ -1,4 +1,4 @@
-# This tells about what type of calculator is this.
+# This tells about what type of calculator is this .
 
 print("This is a scientifc calculator")
 
